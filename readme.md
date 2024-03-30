@@ -1,3 +1,6 @@
+Przez ten projekt, który dostosowałem do swoich potrzeb, nauczyłem się przez najnowsze oprogramowanie pod Windows 10 podstaw Playwright, TypeScript
+automatyzowania testów, tworzenia raportów i nagrywania kroków testowych.
+
 # Playwright Tutorial - Typescript
 
 ## What is Playwright?
@@ -15,7 +18,7 @@
   
 ## Update (April 2024) Software Windows tools
 Node.js v20.12.0  (node --version)
-Visual Code Studio 1.87.2 x64 (code --version)
+Visual Code Studio 1.87.2 x64 (code --version) (CTRL+J)
 Marketplace Install Playwright (CTRL+Shift+P) v.10.5.0 (npx --version)
 MarketPlace Install Playwright Browser (CTRL+Shift+P) Chrome v123.0.6312.4, Firefox v123.0, WebKit v.17.4
 source code change path for Windows e.g. testMatch: ["tests\login.test.ts"] instead tests/login.test.ts - unix "/" path notation
